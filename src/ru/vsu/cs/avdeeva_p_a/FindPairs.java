@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class FindPairs {
     public static void findPairs(int[] input, int sum) {
         System.out.println(" Given sum: " + sum);
-        System.out.println("~ All pairs ~");
+        System.out.println("All pairs :");
         getDifferentPairs(input, sum);
 
     }
